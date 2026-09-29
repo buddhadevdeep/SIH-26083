@@ -1,6 +1,6 @@
-# UrbanHeat AI
+# AuraThermal AI
 
-AI-Powered Climate Intelligence Platform for Urban Heat Island Detection & Mitigation — built for the ISRO Bharatiya Antariksh Hackathon (BAH) 2026.
+AI-Powered Climate Intelligence Platform for Urban Heat Island Detection & Mitigation — built for the Smart India Hackathon (SIH) 2026.
 
 ## Folder Structure
 
